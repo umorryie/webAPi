@@ -1,0 +1,10 @@
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\bin\Debug\netcoreapp3.1\CountryWebApis.exe
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\obj\Debug\netcoreapp3.1\CountryWebApis.csprojAssemblyReference.cache
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\obj\Debug\netcoreapp3.1\CountryWebApis.AssemblyInfoInputs.cache
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\obj\Debug\netcoreapp3.1\CountryWebApis.AssemblyInfo.cs
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\obj\Debug\netcoreapp3.1\CountryWebApis.RazorTargetAssemblyInfo.cache
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\obj\Debug\netcoreapp3.1\staticwebassets\CountryWebApis.StaticWebAssets.Manifest.cache
+C:\Users\pesja\source\repos\CountryWebApis\CountryWebApis\obj\Debug\netcoreapp3.1\staticwebassets\CountryWebApis.StaticWebAssets.xml

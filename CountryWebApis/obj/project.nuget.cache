@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D8OuPC4tn7luPv6Cfb7QEcy2pA3csWLZbz4SQJj69eTVOXAQ8/hTwzMnxYfnzwOg3k3FJ6dwfu7LtrHQ8ZTBUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pesja\\source\\repos\\CountryWebApis\\CountryWebApis\\CountryWebApis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pesja\\.nuget\\packages\\microsoft.odata.edm\\7.7.2\\microsoft.odata.edm.7.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
